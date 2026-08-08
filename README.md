@@ -28,7 +28,7 @@ No es necesario instalar Node.js ni PostgreSQL localmente.
 
 Como parte de los lineamientos de arquitectura, este proyecto no solo se ejecuta en entornos locales, sino que cuenta con un ciclo de vida de desarrollo de software (SDLC) automatizado y monitoreado.
 
-* **🚀 API Desplegada:** [URL_PUBLICA_DE_LA_API_AQUI]
+* **🚀 API Desplegada:** [Ver lista de alumnos](https://api-colegio-san-marcos.onrender.com/api/alumnos)
 * **⚙️ Pipeline CI/CD:** Configurado para automatizar la integración y el despliegue continuo cada vez que se actualiza la rama principal. 
   * [Ver Evidencia de GitHub Actions](URL_DE_LA_PESTAÑA_ACTIONS_AQUI)
 * **📈 Monitoreo de Salud:** Vigilancia automatizada (Uptime) de los endpoints principales para garantizar la disponibilidad del servicio. 
