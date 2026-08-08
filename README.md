@@ -30,8 +30,8 @@ Como parte de los lineamientos de arquitectura, este proyecto no solo se ejecuta
 
 * **🚀 API Desplegada:** [Ver lista de alumnos](https://api-colegio-san-marcos.onrender.com/api/alumnos)
 * **⚙️ Pipeline CI/CD:** Configurado para automatizar la integración y el despliegue continuo cada vez que se actualiza la rama principal. 
-  * [Ver Evidencia de GitHub Actions](URL_DE_LA_PESTAÑA_ACTIONS_AQUI)
+  * [Ver Evidencia de GitHub Actions](https://github.com/Franrecinos1991/Modulo_8/actions/workflows/main.yml)
 * **📈 Monitoreo de Salud:** Vigilancia automatizada (Uptime) de los endpoints principales para garantizar la disponibilidad del servicio. 
-  * [Ver Evidencia de Monitoreo](URL_DEL_DASHBOARD_DE_MONITOREO_AQUI)
+  * [Ver Evidencia de Monitoreo](https://api-colegio-san-marcos.onrender.com/api/alumnos)
 * **💾 Plan de Backups:** Estrategia de copias de seguridad de la base de datos PostgreSQL para garantizar la persistencia e integridad de la información académica. 
-  * [Consultar Plan de Respaldo](URL_DEL_DOCUMENTO_AQUI)
+  
