@@ -33,5 +33,6 @@ Como parte de los lineamientos de arquitectura, este proyecto no solo se ejecuta
   * [Ver Evidencia de GitHub Actions](https://github.com/Franrecinos1991/Modulo_8/actions/workflows/main.yml)
 * **📈 Monitoreo de Salud:** Vigilancia automatizada (Uptime) de los endpoints principales para garantizar la disponibilidad del servicio. 
   * [Ver Evidencia de Monitoreo](https://api-colegio-san-marcos.onrender.com/api/alumnos)
-* **💾 Plan de Backups:** Estrategia de copias de seguridad de la base de datos PostgreSQL para garantizar la persistencia e integridad de la información académica. 
+* **💾 Plan de Backups:** Estrategia de copias de seguridad de la base de datos PostgreSQL para garantizar la persistencia e integridad de la información académica.
+   * [Ver estrategia de Backup](https://docs.google.com/document/d/10sgUoTdncIhKPTxfR_5d-49eFoCYVIFm6YNGiSnGzig/edit?usp=sharing) 
   
